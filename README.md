@@ -25,10 +25,8 @@
 ## About Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30">
 <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400">
 
-- 🔭 Currently working on **Aruvaa** project
-- 🌱 Learning **Laravel Framework** and **Vue.js 3**
 - 💻 Backend developer with focus on scalable solutions
-- 💬 Ask me about **Core Java, C++, HTML, CSS, JavaScript**
+- 💬 Ask me about **Core Java, C++, HTML, CSS, JavaScript,Laravel,vue**
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
 ## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
